@@ -1,2 +1,3 @@
 # LeetCode_Find_Triangular_Sum_of_An_Array
 LeetCode_Find_Triangular_Sum_of_An_Array
+Submission:https://leetcode.com/submissions/detail/1239233997/
